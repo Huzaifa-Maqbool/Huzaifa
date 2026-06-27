@@ -87,17 +87,7 @@ I'm a cybersecurity analyst specializing in **SOC operations**, **threat detecti
 ## 🔬 Featured Research & Projects
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🤖  ML-Based Detection of Living-Off-The-Land (LOTL) Attacks       │
-├─────────────────────────────────────────────────────────────────────┤
-│  Dataset    │  204,094 real Windows Security Events (live Wazuh)    │
-│  Accuracy   │  96.11%                                               │
-│  Method     │  Machine Learning on Windows Event Logs               │
-│  Target     │  LOTL techniques (LOLBins, fileless malware)          │
-│  Status     │  📝 Under Peer Review                                 │
-└─────────────────────────────────────────────────────────────────────┘
+  
 ```
 
 ```
@@ -108,8 +98,10 @@ I'm a cybersecurity analyst specializing in **SOC operations**, **threat detecti
 │  Accuracy   │  97.4%  (99.4% recall, 30 engineered features)        │
 │  Method     │  Gradient Boosting Classifier, benchmarked vs 9 models│
 │  Stack      │  Python, Flask, Scikit-Learn                          │
-│  Repo       │  github.com/huziifa/phishing-url-classifier           │
+│  Repo       │  github.com/huziifa/phishing-url-classifier    
+  │link     https://github.com/Huzaifa-Maqbool/phishing-url-classifier
 └─────────────────────────────────────────────────────────────────────┘
+
 ```
 
 </div>
