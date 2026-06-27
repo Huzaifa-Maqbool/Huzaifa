@@ -79,7 +79,7 @@ Gradient Boosting model trained on 11,055 real-world URLs, extracting 30 structu
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifamaqbool37)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-maqbool37/)
 [![Email](https://img.shields.io/badge/Send%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifamaqboolc37@gmail.com)
 
 <div align="center">
