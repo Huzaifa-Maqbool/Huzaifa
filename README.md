@@ -87,8 +87,6 @@ I'm a cybersecurity analyst specializing in **SOC operations**, **threat detecti
 ## 🔬 Featured Research & Projects
 
 <div align="center">
-  
-```
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -98,10 +96,8 @@ I'm a cybersecurity analyst specializing in **SOC operations**, **threat detecti
 │  Accuracy   │  97.4%  (99.4% recall, 30 engineered features)        │
 │  Method     │  Gradient Boosting Classifier, benchmarked vs 9 models│
 │  Stack      │  Python, Flask, Scikit-Learn                          │
-│  Repo       │  github.com/huziifa/phishing-url-classifier    
-  │link     https://github.com/Huzaifa-Maqbool/phishing-url-classifier
+│  Repo       │  github.com/Huzaifa-Maqbool/phishing-url-classifier   │
 └─────────────────────────────────────────────────────────────────────┘
-
 ```
 
 </div>
@@ -156,7 +152,7 @@ I'm a cybersecurity analyst specializing in **SOC operations**, **threat detecti
 I'm actively looking for **SOC Analyst**, **Threat Detection**, or **GRC** roles.  
 Open to collaborating on detection engineering, security tooling, or ML research.
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-maqbool37/)
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifamaqbool37)
 [![Email](https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifamaqboolc37@gmail.com)
 
 </div>
