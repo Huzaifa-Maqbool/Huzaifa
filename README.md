@@ -164,9 +164,8 @@ I'm a cybersecurity analyst specializing in **SOC operations**, **threat detecti
 I'm actively looking for **SOC Analyst**, **Threat Detection**, or **GRC** roles.  
 Open to collaborating on detection engineering, security tooling, or ML research.
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifamaqbool37)
-[![Email](https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifamaqboolc37@gmail.com)
-
+[![LinkedIn](https://www.linkedin.com/in/huzaifa-maqbool37/)
+[![Email](huzaifamaqboolc37@gmail.com)
 </div>
 
 ---
